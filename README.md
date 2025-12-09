@@ -1,4 +1,4 @@
-# Task 7: Data Analysis with Python – PCA & Stock Price Forecasting  
+# Task : Data Analysis with Python – PCA & Stock Price Forecasting  
 
 This project was completed as part of my internship tasks. It demonstrates **Dimensionality Reduction** using PCA and **Stock Price Prediction** using ARIMA.  
 
